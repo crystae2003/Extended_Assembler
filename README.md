@@ -21,9 +21,9 @@ On the Terminal- it will generate predictions and calculates prediction accuracy
 Following is the output for my inputfile :-
 
 Branch guessor type       Accuracy (%)
-Single Bit guessor       97.16
-two Bit guessor          98.38
-Always Not taken         56.65
+Single Bit guessor       97.16;
+two Bit guessor          98.38;
+Always Not taken         56.65;
 Always taken             43.35
 
 
